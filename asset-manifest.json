@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Confusion-Restaurant-React-/static/css/main.17322a8a.chunk.css",
+    "main.js": "/Confusion-Restaurant-React-/static/js/main.e20ddbf4.chunk.js",
+    "main.js.map": "/Confusion-Restaurant-React-/static/js/main.e20ddbf4.chunk.js.map",
+    "runtime-main.js": "/Confusion-Restaurant-React-/static/js/runtime-main.eb0428f3.js",
+    "runtime-main.js.map": "/Confusion-Restaurant-React-/static/js/runtime-main.eb0428f3.js.map",
+    "static/css/2.a5b62288.chunk.css": "/Confusion-Restaurant-React-/static/css/2.a5b62288.chunk.css",
+    "static/js/2.b36da100.chunk.js": "/Confusion-Restaurant-React-/static/js/2.b36da100.chunk.js",
+    "static/js/2.b36da100.chunk.js.map": "/Confusion-Restaurant-React-/static/js/2.b36da100.chunk.js.map",
+    "index.html": "/Confusion-Restaurant-React-/index.html",
+    "precache-manifest.3368bc52bd78c8906448ff682a34498a.js": "/Confusion-Restaurant-React-/precache-manifest.3368bc52bd78c8906448ff682a34498a.js",
+    "service-worker.js": "/Confusion-Restaurant-React-/service-worker.js",
+    "static/css/2.a5b62288.chunk.css.map": "/Confusion-Restaurant-React-/static/css/2.a5b62288.chunk.css.map",
+    "static/css/main.17322a8a.chunk.css.map": "/Confusion-Restaurant-React-/static/css/main.17322a8a.chunk.css.map",
+    "static/js/2.b36da100.chunk.js.LICENSE.txt": "/Confusion-Restaurant-React-/static/js/2.b36da100.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb0428f3.js",
+    "static/css/2.a5b62288.chunk.css",
+    "static/js/2.b36da100.chunk.js",
+    "static/css/main.17322a8a.chunk.css",
+    "static/js/main.e20ddbf4.chunk.js"
+  ]
+}
